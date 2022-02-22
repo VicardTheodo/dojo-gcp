@@ -17,6 +17,9 @@ export class CloudProviderService {
         name: 'AWS',
         grade: 1,
       },
+      {name: 'Azure',
+        grade: 100
+      }
     ];
   }
 }
