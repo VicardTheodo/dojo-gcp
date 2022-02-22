@@ -23,7 +23,7 @@ services:
       - 3000:3000
     environment:
       DATABASE_CONNECTION: postgres
-      DATABASE_HOST: postgresql
+      DATABASE_HOST: 34.76.110.120
       DATABASE_USERNAME: dojo-gcp-user
       DATABASE_PASSWORD: dojo-gcp-password
       DATABASE_DATABASE: dojo-gcp-db
